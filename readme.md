@@ -1,17 +1,17 @@
 # __Welcome to the Data Visualization Workshops!__
 
-Este es el repositorio donde dejaré las clases, material y otras utilidade para los workshops del ramo de **Data Visualization 2025**.
+Saludos! En este repositorio es donde dejaré las clases, material y otras utilidades para los workshops del ramo de **Data Visualization 2025**.
 
-## Contenidos
+## Qué Encontrarás
 
 1. **Materiales de clase** utilizados durante los workshops. Generalmente _jupyter notebooks .ipynb_ donde se resolverán los ejercicios de los listados.
 2. __Material complementario__ utilizado o comentado en clases.
 3. __Listados PDFs__ entregados por el profesor.
 4. Un kit de __Starter Pack__ donde se incluye material sintetizado para repasar (o conocer) conceptos básicos, y no tan básicos, de _Python,_ y un apunte sobre *Panda* (Se recomienda echar un ojo).
 
-## Extra
+## Otros
 
-### Sobre Instalación de Python
+### 1. Sobre Instalación de Python
 
 Utilizar Python se puede lograr de diversas maneras, pero yo recomiendo dos:
 
@@ -22,7 +22,7 @@ En este curso utilizaremos principalmente archivos `.ipynb`, por lo que lo impor
 
 Cualquier duda al respecto, pueden acerarse en la ayudantía.
 
-### Bibliotecas Utilizadas en el Curso
+### 2. Bibliotecas Utilizadas en el Curso
 
 - [Pandas](https://pandas.pydata.org/)
 - [Polars](https://pola.rs/)
@@ -42,7 +42,7 @@ Y para ocuparlas siempre se deben importar. Ejemplo:
 import pandas as pd
 ```
 
-### Material Externo Recomendado:
+### 3. Material Externo Recomendado:
 
 - Documentación Oficial:
   - [El Tutorial de Python Oficial](https://docs.python.org/es/3.13/tutorial/index.html)
@@ -60,6 +60,6 @@ import pandas as pd
   <p>Espero que este material te ayude en tu aprendizaje. Nos vemos en el siguiente workshop ☺️.</p>
   <footer style="margin-top: 15px;">
     <p>📂 <a href="https://github.com/GabrielBurgosS" style="color: #0077b5;">Repositorio principal</a></p>
-Contactame por Teams o Correo en:  <i>gburgos2019@udec.cl</i>
+Si tienes alguna consulta, no dudes en contactarme por Teams o Correo en:  <i>gburgos2019@udec.cl</i>
   </footer></center>
 </div>
