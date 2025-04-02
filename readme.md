@@ -54,12 +54,12 @@ import pandas as pd
 
 # Fin
 
-<div style="padding: 20px 30px; background-color: #5594f2; color: #333; text-align: center; font-family: 'Segoe UI', sans-serif; border-radius: 8px;">
+<div style="padding: 20px 30px; background-color: #5594f2; color: #333; text-align: center; font-family: 'Segoe UI', sans-serif; border-radius: 8px;"><center>
   <h2>¡Sigue explorando el mundo de los datos! 📊</h2>
-  <p>La visualización de datos no es solo gráficos, es una forma de contar historias con números.</p>
+  <p><i>"La visualización de datos no es solo gráficos, es una forma de contar historias con números."</i></p>
   <p>Espero que este material te ayude en tu aprendizaje. Nos vemos en el siguiente workshop ☺️.</p>
   <footer style="margin-top: 15px;">
     <p>📂 <a href="https://github.com/GabrielBurgosS" style="color: #0077b5;">Repositorio principal</a></p>
 Contactame por Teams o Correo en:  <i>gburgos2019@udec.cl</i>
-  </footer>
+  </footer></center>
 </div>
